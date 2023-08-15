@@ -1,2 +1,18 @@
-# Information
-So basiaclly I'm learning the ropes at the moment. My goal is to create my own repository on here which actually is useful. Also what is octospoon?
+# Hi, I'm [Kevin](https://apfrog.github.io/)
+
+## 🖥️ Software Projects
+- [Lorem Ipsum Calculator](https://apfrog.github.io/)
+Calculates the approximate size of a lorem ipsum implemenation before it is pasted without copying
+- [Dolor Sit Amet Editor](https://apfrog.github.io/)
+
+## 🔨 Contributions
+- [A Big Dolor Sit Amet Tool](https://apfrog.github.io/)
+- [A Lorem Ipsum Cat Deployer](https://apfrog.github.io/)
+
+## 🚧 Big upcoming projects
+- Planned soon
+
+## 📞 Contact me
+- [My Website](https://apfrog.github.io/)
+
+Thank you!
