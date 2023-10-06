@@ -1,4 +1,4 @@
-# Hi, I'm [Kevin](https://apfrog.github.io/)
+# [Hi, I'm Kevin](https://apfrog.github.io/)
 
 ## 🖥️ Software Projects
 - [Lorem Ipsum Calculator](https://apfrog.github.io/)
