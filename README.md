@@ -10,6 +10,3 @@
 
 ## 📞 Contact me
 - [My Website](https://apfrog.github.io/)
-
-
-# Thank you!
